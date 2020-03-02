@@ -1,0 +1,29 @@
+.mama-nia {
+    background-image: url(../images/pizza.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 663px;
+    margin-left: -100px;
+    margin-right: -100px;
+    margin-top: 2px;
+    text-align: center;
+}
+.mama-nia-p {
+    margin-top: -400px;
+    margin-left: 300px;
+    font-size: 35px;
+    color: rgb(26, 11, 8);
+    margin-top: 100px;
+}
+.mama-nia-h1 {
+    font-size: 70px;
+    color: rgb(14, 4, 4);  
+    font-weight: bolder;
+}
+.pizza2 {
+    background-color: transparent;
+    background
+}
+.about-us-p {
+    display: none;
+}
