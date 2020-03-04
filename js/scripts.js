@@ -1,5 +1,4 @@
-(document).ready(function(){
-  let total = 0;
+let total = 0;
 let checkOut = 0;
 
 function GetPizza(name, size, crust, topping, total) {
@@ -132,5 +131,4 @@ $('.choice h2').toggle(700);
 });
 $('.smt').click(function(){
 $('.butt').fadeIn(1000);
-});
 });
